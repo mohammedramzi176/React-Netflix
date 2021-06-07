@@ -13,7 +13,7 @@ function Banner() {
                 <h1 className="description"> Ramzi : Note that the development build is not optimized.To create a production build, use npm run build.</h1>
 
             </div>
-
+                   <div className="fade"></div>
             
         </div>
     )
