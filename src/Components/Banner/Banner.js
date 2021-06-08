@@ -1,7 +1,11 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./Banner.css"
 
 function Banner() {
+    useEffect(() => {
+        
+      
+    }, [])
     return (
         <div className="banner">
             <div className="content">
